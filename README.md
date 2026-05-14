@@ -19,4 +19,7 @@ Here are some ideas to get you started:
   <img src="https://render.gitanimals.org/farms/kkykoh"/>
 </a>
 
+[![Tophies](https://github-profile-trophy.vercel.app/?username=kkykoh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![Snake animation](https://raw.githubusercontent.com/kkykoh/kkykoh/output/github-snake-dark.svg) 

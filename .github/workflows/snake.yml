@@ -9,7 +9,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-    - uses: Plantane/snk@v3
+    - uses: Platane/snk/svg-only@v3
       with: 
         github_user_name: kkykoh
         outputs: |

@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/kkykoh"/>
 </a>
+
+![Snake animation] (https://raw.githubusercontent.com/kkykoh/kkykoh/output/github-snake-dark.svg) 

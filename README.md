@@ -59,12 +59,12 @@ I work with...
 </p>
 
 My Github stats...
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kkykoh&show_icons=true&theme-tokyonight&hide_border=true&count_private=true" width="40%"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkykoh&layout=compact&show_icons=true&theme-tokyonight&hide_border=true&count_private=true" width="40%"/>
-</p>
+</p> -->
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=kkykoh&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
@@ -73,6 +73,7 @@ My trophies...
 [![Tophies width="50%"](https://github-profile-trophy.vercel.app/?username=kkykoh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 My pet snake...
+<br>
 ![Snake animation width="50%"](https://raw.githubusercontent.com/kkykoh/kkykoh/output/github-snake-dark.svg) 
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=kkykoh&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS)

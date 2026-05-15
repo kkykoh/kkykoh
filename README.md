@@ -28,14 +28,32 @@ My Farm...
 </a>
 
 I work with...
+**Frontend**
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+**Backend**
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+**Databases**
+<p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+**AI**
+<p>
   <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+</p>
+
+**Others**
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -51,9 +69,9 @@ My Github stats...
 
 My trophies...
 <br>
-[![Tophies](https://github-profile-trophy.vercel.app/?username=kkykoh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Tophies width="50%"](https://github-profile-trophy.vercel.app/?username=kkykoh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 My pet snake...
-![Snake animation](https://raw.githubusercontent.com/kkykoh/kkykoh/output/github-snake-dark.svg) 
+![Snake animation width="50%"](https://raw.githubusercontent.com/kkykoh/kkykoh/output/github-snake-dark.svg) 
 
 ![ProfileViews](https://komarev.com/ghpvc/?username=kkykoh&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS)

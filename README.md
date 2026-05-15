@@ -3,7 +3,7 @@
 <p>
   <!-- <a href="https://readme-typing-svg.demolab.com"> -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+kkykoh%2C+a+chemist+turned+software+engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=100&lines=Hi+there!+I'm+kkykoh%2C+a+chemist+turned+software+engineer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,32 +28,33 @@ My Farm...
 </a>
 
 I work with...
-**Frontend**
 <p>
+<strong>Frontend</strong>
+<br>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=angular&logoColor=white"/>
-</p>
-
-**Backend**
-<p>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  
+  
+<strong>Backend</strong>
+<br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-</p>
 
-**Databases**
-<p>
+<strong>Databases</strong>
+<br>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
 
-**AI**
-<p>
+<strong>AI</strong>
+<br>
   <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-</p>
 
-**Others**
-<p>
+<strong>Others</strong>
+<br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 

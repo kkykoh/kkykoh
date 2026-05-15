@@ -35,8 +35,7 @@ I work with...
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-  
+
 <strong>Backend</strong>
 <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,9 +52,11 @@ I work with...
 <br>
   <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
+<!-- <strong>DevOps</strong> -->
 <strong>Others</strong>
 <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 My Github stats...
@@ -63,7 +64,6 @@ My Github stats...
   <img src="https://github-readme-stats.vercel.app/api?username=kkykoh&show_icons=true&theme-tokyonight&hide_border=true&count_private=true" width="40%"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkykoh&layout=compact&show_icons=true&theme-tokyonight&hide_border=true&count_private=true" width="40%"/>
 </p> -->
-
 <p>
   <img src="https://streak-stats.demolab.com?user=kkykoh&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
@@ -76,4 +76,6 @@ My pet snake...
 <br>
 ![Snake animation width="50%"](https://raw.githubusercontent.com/kkykoh/kkykoh/output/github-snake-dark.svg) 
 
-![ProfileViews](https://komarev.com/ghpvc/?username=kkykoh&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS)
+![ProfileViews](https://komarev.com/ghpvc/?username=kkykoh&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS) 
+<br>
+<code>stalker alert? say hi<code>

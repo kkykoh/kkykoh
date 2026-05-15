@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p>
+  <a href="https://readme-typing-svg.demolab.com">
+</p>
+
 <!--
 **kkykoh/kkykoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My Farm...
+<br>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/kkykoh"/>
 </a>
@@ -27,7 +32,7 @@ I work with...
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodegotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git0F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 My Github stats...
@@ -37,7 +42,7 @@ My Github stats...
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user-kkykoh&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com?user=kkykoh&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 My trophies...

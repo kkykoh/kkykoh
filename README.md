@@ -35,10 +35,14 @@ I work with...
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  
 <strong>Backend</strong>
 <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
@@ -56,7 +60,14 @@ I work with...
 <strong>Others</strong>
 <br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
 </p>
 
 My Github stats...
@@ -64,18 +75,26 @@ My Github stats...
   <img src="https://github-readme-stats.vercel.app/api?username=kkykoh&show_icons=true&theme-tokyonight&hide_border=true&count_private=true" width="40%"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kkykoh&layout=compact&show_icons=true&theme-tokyonight&hide_border=true&count_private=true" width="40%"/>
 </p> -->
-<p>
+<!-- <p>
   <img src="https://streak-stats.demolab.com?user=kkykoh&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
+</p> -->
+![](https://github-readme-stats.shion.dev/api?username=kkykoh&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=kkykoh&theme=default&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kkykoh&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 My trophies...
 <br>
-[![Tophies width="50%"](https://github-profile-trophy.vercel.app/?username=kkykoh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=kkykoh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 My pet snake...
 <br>
 ![Snake animation width="50%"](https://raw.githubusercontent.com/kkykoh/kkykoh/output/github-snake-dark.svg) 
 
+My Socials...
+<br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) 
+
 ![ProfileViews](https://komarev.com/ghpvc/?username=kkykoh&color=6A5ACD&style=for-the-badge&label=PROFILE+VIEWS) 
 <br>
-<code>stalker alert? say hi<code>
+<code>stalker alert? say hi</code>
